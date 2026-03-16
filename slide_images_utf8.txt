@@ -1,0 +1,11 @@
+Slide 1 uses images: ../media/image6.png
+Slide 2 uses images: ../media/image8.jpeg, ../media/image7.jpeg
+Slide 7 uses images: ../media/image15.png, ../media/image10.png, ../media/image14.png, ../media/image19.png, ../media/image9.png, ../media/image13.png, ../media/image18.png, ../media/image12.png, ../media/image17.png, ../media/image11.png, ../media/image16.png
+Slide 12 uses images: ../media/image21.jpeg, ../media/image20.jpeg
+Slide 14 uses images: ../media/image23.jpeg, ../media/image22.jpeg
+Slide 15 uses images: ../media/image25.jpeg, ../media/image24.jpeg, ../media/image27.jpeg, ../media/image26.jpeg
+Slide 16 uses images: ../media/image29.jpeg, ../media/image28.jpeg, ../media/image31.jpeg, ../media/image30.jpeg
+Slide 17 uses images: ../media/image33.jpeg, ../media/image32.jpeg, ../media/image35.jpeg, ../media/image34.jpeg
+Slide 18 uses images: ../media/image37.jpeg, ../media/image36.jpg
+Slide 19 uses images: ../media/image39.jpeg, ../media/image38.jpeg, ../media/image40.jpeg
+Slide 20 uses images: ../media/image42.jpeg, ../media/image41.jpeg, ../media/image43.jpeg
